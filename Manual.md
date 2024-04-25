@@ -7,185 +7,70 @@
 
 > The 2-player (2 avatar icons), 3-player (3 avatar icons), and 4-player (4 avatar icons) counts are shown in the bottom right corner on the front of the cards and along the top of the merchant tiles.
 
-3. Separate the Wild Location Wild Industry them face up on 2 of the Card Draw Areas.
-4. 
-Place 1 beer barrel on each beer barrel space beside a (non-blank) . Merchant tile
+3. Separate the Wild Location and Wild Industry cards, and place them face up on 2 of the Card Draw Areas.
 
-Place 1 black cube on each space of the Coal Market the £1 spaces open.
+> Wild cards are the ones with white border. Categorize them based on their arts and put them in the 2 spaces of the Card Draw Areas excluding the one in the corner.
 
+4. Shuffle the remaining cards and place them face down on the remaining Card Draw Area; this is the Draw Deck.
 
+> The remaining Card Draw Area is the one in the corner.
 
-, leaving 1 of
+5. Shuffle the remaining Merchant tiles, and place 1 (face up) on each of the Merchant spaces marked with the number of players in your game, located near the edges of the board.
 
-4
+Result: In a 2 player game, no Merchant tiles are placed in Warrington & Nottingham. In a 3-player game, no Merchant tiles are placed in Nottingham.
 
+6. Place 1 beer barrel on each beer barrel space beside a (non-blank) Merchant tile.
 
+7. Place 1 black cube on each space of the Coal Market, leaving 1 of the £1 spaces open.
 
-Place 1 orange cube on each space of the Iron Market of the £1 spaces open.
+> Leave the one with the dot in the bottom next to the number 1.
 
-, leaving both
+8. Place 1 orange cube on each space of the Iron Market , leaving both of the £1 spaces open.
 
-## E
+> Leave the two in the bottom next to the number one, and beside the left one with the black cube.
 
-Place the remaining cubes and beer barrels beside the board; this is the General Supply Note: The General Supply is limitless. If you need more of a resource, represent it with something else.
+9.  Place the remaining cubes and beer barrels beside the board; this is the General Supply.
 
-),
+Note: The General Supply is limitless. If you need more of a resource, represent it with something else.
 
-## ), 3-Player (
-
-
-
-.
-
-) counts are
-
-5
-
-.
-
-Place the money beside the board; this is the Bank
-
-.
-
-## F
-
-## And
-
-
-
-## Cards And Place
-
-## F
-
-Shuffle the remaining cards and place them face down on the remaining Card Draw Area is the Draw Deck.
-
-## ; This
-
-Shuffle the remaining Merchant tiles, and place 1 (face up) on each of the Merchant spaces marked with the number of players in your game located near the edges of the board.
-
-,
+10. Place the money beside the board; this is the Bank.
 
 ## Location Banners
 
 In addition to helping players find locations on the board, the colours of the location banners also indicate which Location cards are in the Draw Deck. This varies with the player count:
 
-## G
+- 2 players: blue and teal coloured Location cards are not in the Draw Deck.
 
-## H
+- 3 players: teal coloured Location cards are not in the Draw Deck.
 
-2 players: blue
-
-and teal
-
-coloured Location cards are not in the Draw Deck.
-
-## H
-
-3 players: teal
-
-coloured
-
-Result: In a 2 player game, no Merchant tiles are placed in Warrington . In a 3-player game, no Merchant tiles are placed in Nottingham
-
-Location cards are not in the Draw Deck.
-
-## & Nottingham
-
-4 players: all Location cards are in the Draw Deck.
-
-.
-
-## L
-
-## I
-
-## M
-
-## L
-
-## J
-
-## K
-
-## N
-
-## O
-
-## D
-
-## E
-
-## C
-
-## G
-
-## I
-
-## Y
-
-## M
-
-## N
-
-## O
-
-## Z
-
-## O
-
-## X
-
-## J
-
-## K
-
-## H
-
-## P
-
-## X
-
-## T
-
-## R
-
-## V
-
-## U
-
-## S
-
-## Y
-
-## W
-
-## U
-
-## Q
-
-## Z
+- 4 players: all Location cards are in the Draw Deck.
 
 ## Player Area Setup
 
+1. Take a Player Mat.
+2. Take £17 from the Bank
+3. Choose a coloured Character tile.
+4. Place the matching coloured Link tiles in your player area.
+5. 
 Place your Victory Point (VP) Marker on the "0" space of the Progress Track
 
 .
 
-## Take A Player Mat.
+
 
 Place your Income Marker on the "10" space of the Progress Track
 
 .
 
-Take £17 from the Bank
+
 
 .
 
-Choose a coloured Character tile.
+
 
 Draw 8 cards from the Draw Deck; this is your Hand. Do not reveal your Hand to other players.
 
-Place the matching coloured Link tiles in your player area
+
 
 .
 
