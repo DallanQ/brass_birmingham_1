@@ -1,113 +1,25 @@
 
-## An Industrial Revolution
+## Board Setup (Page 4)
 
-Brass: Birmingham tells the story of competing entrepreneurs in the West Midlands during England's Industrial Revolution, between the years 1770-1870. During the game, you will expand your empire by establishing canals and rails, and building and developing various industries, including Cotton Mills, Coal Mines, Iron Works, Manufacturers, Potteries, and Breweries.
+1. Place the board On either the day or night side.
+   
+2. For a player count of less than 4, remove all cards and Merchant tiles that show a player count greater than your number of players, and return them to the box.
 
-## Video & Digital Tutorials
+> The 2-player (2 avatar icons), 3-player (3 avatar icons), and 4-player (4 avatar icons) counts are shown in the bottom right corner on the front of the cards and along the top of the merchant tiles.
 
-Are you more of a visual learner? We've got you covered. Open your web browser and head over to roxley.com/brass-tutorial for tutorials on how to play!
-
-## Credits
-
-Game Design: Martin Wallace Game Development: Gavan Brown & Matt Tolman Illustration & Graphic Design: David Forest & Lina Cossette, Damien Mammoliti, Gavan Brown, Gui Landgraf Expert Player Advisor: Edward Chen, Jim Drinkle Rulebook Writing & Editing: Simon Rourke, Gavan Brown, Matt Tolman, Michael Van Biesbrouck, Orin Bishop, Ricky Patel, Daniel Danzer Rulebook Feedback & Criticism: Adam Allett, Dan Le, Dave Thomas, David Goldfarb, David Wernert, Gimo Barrera, Graeme Edgeler, Jeff Lee, Jered Biard, John Merlino, Jørgen Grøndal, Mark Nichols, Mikolaj Sobocinski, Sam Lambert, Jenna Marion Historical Advisor: Judith Bennett Rulebook Lead Translators: Alexandre Limoges (French), Ketty Galleguillos (Spanish), Daniel Danzer (German), Andrea Mondani & Guido Marzucchi (Italian) Rulebook Translation Feedback & Criticism: Raphaël Biolluz, Marielle Dessel, Andréa Trépanier, Marco Ghitti, Marco Paccagnella, Raffaele Mesiti, Nicolas De les Essarts, Christophe Fergeau, Xabier Pérez, and Daniel Gómez
-
-## Components
-
-## 1 × Board
-
-## 4 × Player Mats
-
-## 4 × Character Tiles
-
-## 56 × Link Tiles (14 Per Colour)
-
-Rulebook v2018.11. This rule book is a living document. Download the latest version from roxley.com/brass-birmingham-rulebook
-
-## 8 × Wild Cards (4 × Wild Location, 4 × Wild Industry)
-
-## 64 × Location And Industry Cards
-
-## 4 × Player Aids
-
-## 4 × Vp Markers
-
-## 18 × Iron Cubes
-
-## 15 × Beer Barrels
-
-## 4 × Income Markers
-
-## 30 × Coal Cubes
-
-## 77 × Money Tokens (Or Deluxe Edition: 78 Iron Clays)
-
-## 11 Manufacturers
-
-## 11 Cotton Mills
-
-## 7 Breweries
-
-## 5 Potteries
-
-## 4 Iron Works
-
-## 7 Coal Mines
-
-## 180 × Industry Tiles (45 Per Colour)
-
-## 9 × Merchant Tiles
-
-Copyright  Roxley Games. All Rights Reserved Worldwide.
-
-Note: There are  blank tiles on one of the punchboards. Those are not used anywhere.
-
-I N D U S T R I A L R E V O L U T I O N
-
-Sir Richard Arkwright (23 December 1732 – 3 August 1792) Taught to read and write by his cousin, Arkwright began as an apprentice barber, but after an early widowing his business ambitions grew, and his second marriage provided the funds to pursue wigmaking. When wigs fell out of fashion, he turned to textiles and made improvements on the spinning jenny with the clockmaker John Kay. Taking his business to the small village of Cromford, Arkwright encouraged weavers with large families to move there and work in his mill, including children as young as seven. Arkwright pioneered the use of the steam engine with textile machinery, a precursor to Edmund Cartwright's development of the power loom. In his later years, after an extended court battle, Arkwright lost many of his patents and his domination of the textile industry, but shortly after this he was knighted. Ambitious, religiously devout, and at times difficult to work with, Arkwright's ingenuity and organizational skills would make him known as the "father of the modern industrial factory system."
-
-Eliza Tinsley (17 January 1813 – 17 January 1882) Following the death of her husband Thomas and his father, along with the death of her eldest of six children, Tinsley continued both her late husband and her late father-in-law's businesses in the Black Country as one under her own name. The Eliza Tinsley company produced nails for horseshoes, and chains and anchors for ships, the latter of which would become the focus as motor vehicles replaced horses. Chainmaking was a particularly male-dominated industry, but Tinsley excelled, employing around 4000 workers, and she established an offshoot company in Australia. Many of Tinsley's employees were women and young girls, and she fought against government efforts to restrict women, and girls under 14, from working in the nail and chainmaking industries, arguing that "the conditions of both trades are favourable to moral and physical health." Known as "The Widow," Tinsley was respected for her industry expertise. She sold the company at 58, but it would continue operating under her name into the 21st century.
-
-Isambard Kingdom Brunel (9 April 1806 – 15 September 1859) At the age of 15, Brunel's father Marc was sent to a debtors' prison, but his debts were paid by the British government when he made it known that the Tsar had offered him a position as an engineer in Russia. Brunel studied in France under the clockmaker Abraham Louis Breguet. Upon returning to England he became an assistant on Marc's project to create a tunnel under the Thames, but a nearly-fatal flooding incident put the 22-year-old out of commission for several months. This didn't stop Brunel from becoming one of the most prolific engineers in history, creating tunnels, bridges, railways, a portable hospital, and a vacuum-powered 'atmospheric railway', though unfortunately for the latter the leather flaps sealing the vacuum pipes were eaten by rats. His 'Great Western' was the first steamship to conduct transatlantic service, and his 'Great Eastern' was the largest ship ever built up to that time, but Brunel died of a stroke at 53 just before her maiden voyage. Brunel is known today as an engineering giant.
-
-George Stephenson (9 June 1781 – 12 August 1848) After the death of his wife and daughter, the 25-year-old Stephenson, having no formal education, left for Scotland to find work but returned to West Moor when his father was blinded in a mining accident. When he offered to improve the mine's deficient pumping engine, Stephenson was made enginewright and became an expert in steam-engine technology. His Northumberland accent made him unpopular with the scientific community, and when he presented his design for a safer mining lamp that would not cause explosions, the Royal Society accused him of stealing the concept from parallel-inventor Humphry Davy. But Stephenson's big claim to fame was his contribution to rail transport, and the invigoration of the rail industry. At age 40 he began work on the first public railway, and his locomotive known as 'Stephenson's Rocket' won a competition by achieving the record speed of 36 miles per hour, which led some to fear that such speeds would cause women's uteruses to literally fly out of their bodies. Thankfully this did not occur.
-
-H I S T O R I C A L F I G U R E S
-
-James Watt (30 January 1736 – 25 August 1819) Tinkering with models and ship's instruments at his father's workbench from an early age, Watt left for Glasgow at 17 to learn to make measuring instruments such as scales and compasses, and befriended the chemist Joseph Black. In his 30s, while repairing a model of the Newcomen steam engine used widely for pumping water out of mines, Watt noticed that the design wasted energy on cooling and reheating the cylinder, and he improved upon it by adding a separate condenser which would revolutionize the steam engine. However he was unable to make progress on this venture for several years as he was busy at his day job surveying Scottish canals. This changed when English manufacturer Matthew Boulton took an interest in his patent, and Watt moved to Birmingham to form a partnership that would last 25 years and spread his improved steam engine across the world of industry. Though a somewhat feeble businessman on his own (Watt once said he "would rather face a loaded cannon than settle an account or make a bargain"), he was greatly respected by his peers, and the basic unit of power, the "watt," bears his name.
-
-Robert Owen (14 May 1771 – 17 November 1858) Falling in love with Caroline Dale, daughter to the owner of the New Lanark mill co-founded by Richard Arkwright, Owen convinced his business partners to purchase the mill. He ran it with great success, but displeased his partners with egalitarian activities such as paying wages to his workers over a four month period in which the mills were closed during the War of 1812. An avid scholar, Owen became critical of prevailing religious thought on human self-determinism, and he developed his own philosophy that one's circumstances are largely the result of external forces, and that therefore education and philanthropy should be paramount in society. He undertook a variety of social reform projects such as lobbying for workers and children's rights and for an 8-hour work day, and temporarily left Britain to found a socialist commune in America called New Harmony. The experiment was an economic failure that bankrupted Owen, but it did produce one of the first public libraries and a free school open to both boys and girls, and his philosophies are deeply woven into socialist movements within the United States.
-
-Sir Henry Bessemer (19 January 1813 – 15 March 1898) Like Isambard Kingdom Brunel's father, Bessemer's father Anthony was forced to flee France during the French Revolution. Anthony had become a member of the Académie des sciences at 26 for his improvements on the optical microscope, and made his fortune in Britain with a process for making gold chains. Bessemer's first innovation mirrored his father's affinity for gold. After carefully analyzing bronze powder from Nuremberg, used in the manufacture of gold paint, he reverse engineered the process and created a series of six steam-powered machines that could manufacture the powder. He later developed a cheap system of creating steel by blowing air through molten pig iron to burn off impurities. The goal was initially to reduce the cost of military ordnance, but this technique of affordable steel revolutionized structural engineering and made bridges and railroad tracks, previously reliant on wrought and cast iron, much safer. Bessemer pioneered over 100 inventions in the fields of metalworking and glass, including a steamship cabin on gimbals intended to stay level to prevent seasickness which was sadly lost at sea, and he gained considerable commercial success leveraging his innovations.
-
-Eleanor Coade (3 June 1733 – 16 November 1821) Bringing her up a devout Baptist, Coade's parents were both successful merchants. Her grandmother Sarah Enchmarch had run the family textile business in Tiverton with 200 employees, using spies to acquire new manufacturing techniques, and was known for travelling around town in a sedan chair. After Coade's family moved to London, she ran her own linen draper business at age 30. Six years later she purchased an artificial stone business from the struggling Daniel Pincot, but fired him within two years for "representing himself as the chief proprietor." Her ceramic stoneware called "Coade's Lithodipyra" went on to be used in over 700 sculptures across the globe, many of them overseen by the sculptor John Bacon, though she worked with a number of high-profile designers and architects as it allowed her to produce multiple copies of their designs. The South Bank Lion may be Coade's most iconic piece, but her product was also used for the Gothic screen of St George's Chapel, and in the restoration of Buckingham Palace.
-
-## A
-
-## A
-
-## B
-
-## B
-
-## C
-
-3
-
-## D
-
-## Board Setup
-
+3. Separate the Wild Location Wild Industry them face up on 2 of the Card Draw Areas.
+4. 
 Place 1 beer barrel on each beer barrel space beside a (non-blank) . Merchant tile
 
 Place 1 black cube on each space of the Coal Market the £1 spaces open.
 
-## Place The Board On Either The Day Or Night Side.
+
 
 , leaving 1 of
 
 4
 
-For a player count of less than 4, remove all cards and Merchant tiles that show a player count greater than your number of players, and return them to the box.
+
 
 Place 1 orange cube on each space of the Iron Market of the £1 spaces open.
 
@@ -121,7 +33,7 @@ Place the remaining cubes and beer barrels beside the board; this is the General
 
 ## ), 3-Player (
 
-The 2-player ( and 4-player ( shown in the bottom right corner on the front of the cards and along the top of the merchant tiles
+
 
 .
 
@@ -139,7 +51,7 @@ Place the money beside the board; this is the Bank
 
 ## And
 
-Separate the Wild Location Wild Industry them face up on 2 of the Card Draw Areas.
+
 
 ## Cards And Place
 
