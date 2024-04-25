@@ -139,69 +139,40 @@ Take money from the Bank equal to your income level. Exception: Income is not co
 
 Note: You may remove any of your Industry tiles, but must stop as soon as you have acquired enough money to cover the shortfall. You may not sell Industry tiles for any reason other than paying for a shortfall.
 
-## End Of Canal & Rail Era
+## End Of Canal & Rail Era Maintenance (Page 7)
+
+### End of Canal & Rail Era (Page 7)
 
 Each era ends following the round in which all players use the final cards in their Hands. When this occurs, perform the following steps:
 
-## H
+1. Score Canal/Rail Links
+For each of your Link tiles, score 1 VP for each (???) displayed in adjacent locations, by advancing your VP Marker along the Progress Track. Remove Link tiles from the board as they are scored.
 
-## L
-
-## K
-
-## J
-
-## M
-
-## L
-
-## M
-
-## I
-
-## I
-
-E N D O F E R A M A I N T E N A N C E
-
-5
-
-## End Of Canal Era
-
-## N
-
-Perform the following additional steps at the end of the Canal Era:
-
-Remove Obsolete Industries Remove all level 1 Industry tiles from the board (not from Player Mats), and return them to the box. All level 2 or greater Industry tiles remain on the board
-
-Score Canal/Rail Links , For each of your Link tiles score 1 VP for each displayed in adjacent locations, by advancing your VP Marker along the Progress Track . Remove Link tiles from the
-
-## K
-
-## G
-
-Score Flipped Industry Tiles After all players have removed their Link tiles, score the VPs shown in the bottom left corner of your flipped Industry tiles (those with a black top half) on the board, by advancing your VP Marker along the Progress Track Industry tiles
-
-## G
-
-6
-
-## G
-
-## J
-
-. Unflipped do not score.
+2. Score Flipped Industry Tiles
+After all players have removed their Link tiles, score the VPs shown in the bottom left corner of your flipped Industry tiles (those with a black top half) on the board, by advancing your VP Marker along the Progress Track. Unflipped Industry tiles do not score.
 
 Note: If you score more than 100 VPs, record the additional points by starting another loop of the Progress Track.
 
-Shuffle Draw Deck Shuffle all players' Discard Piles together and place the cards face down on the appropriate Card Draw Area Remember: The bottom card of each Discard Pile will be face down, and need turning over before shuffling. (Don't start the Rail Era with a card face down in your discard) Draw New Hands Each player draws 8 cards from the newly shuffled Draw Deck.
+### End of Canal Era (Page 7)
 
-.
+Perform the following additional steps at the end of the Canal Era:
 
-## G
+3. Remove Obsolete Industries
+Remove all level 1 Industry tiles from the board (not from Player Mats), and return them to the box. All level 2 or greater Industry tiles remain on the board.
 
-## Winning The Game
+4. Reset Merchant Beer
+Place 1 beer barrel on each empty beer barrel space beside a (non-blank) Merchant tile.
 
-## After Performing Rail Era Scoring:
+5. Shuffle Draw Deck
+Shuffle all players' Discard Piles together and place the cards face down on the appropriate Card Draw Area.
+Remember: The bottom card of each Discard Pile will be face down, and need turning over before shuffling. (Don't start the Rail Era with a card face down in your discard).
+
+6. Draw New Hands
+Each player draws 8 cards from the newly shuffled Draw Deck.
+
+### Winning the game
+
+After Performing Rail Era Scoring:
 
 - The player with the most VPs is declared the winner.
 
@@ -209,11 +180,12 @@ Shuffle Draw Deck Shuffle all players' Discard Piles together and place the card
 
 - If still tied, those players draw.
 
+
 board as they are scored.
 
 .
 
-Reset Merchant Beer Place 1 beer barrel on each empty beer barrel space beside a (non-blank) Merchant tile
+
 
 .
 
