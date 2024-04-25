@@ -1,5 +1,5 @@
 
-## Board Setup (Page 4)
+### Board Setup (Page 4)
 
 1. Place the board on either the day or night side.
    
@@ -35,7 +35,7 @@ Note: The General Supply is limitless. If you need more of a resource, represent
 
 10. Place the money beside the board; this is the Bank.
 
-## Location Banners
+### Location Banners (Page 4)
 
 In addition to helping players find locations on the board, the colours of the location banners also indicate which Location cards are in the Draw Deck. This varies with the player count:
 
@@ -45,156 +45,39 @@ In addition to helping players find locations on the board, the colours of the l
 
 - 4 players: all Location cards are in the Draw Deck.
 
-## Player Area Setup
+### Player Area Setup (Page 5)
 
 1. Take a Player Mat.
+   
 2. Take £17 from the Bank
+   
 3. Choose a coloured Character tile.
+   
 4. Place the matching coloured Link tiles in your player area.
-5. 
-Place your Victory Point (VP) Marker on the "0" space of the Progress Track
 
-.
+5. Stack the matching coloured Industry tiles (which consist of Cotton Mills, Coal Mines, Iron Works, Manufacturers, Potteries, and Breweries) on their appropriate slots on your Player Mat. The side of the tiles with the black top half should be face down.
+   
+6. Place your Victory Point (VP) Marker on the "0" space of the Progress Track.
 
+7. Place your Income Marker on the "10" space of the Progress Track.
 
+8. Draw 8 cards from the Draw Deck; this is your Hand. Do not reveal your Hand to other players.
 
-Place your Income Marker on the "10" space of the Progress Track
+9. Draw 1 additional card from the Draw Deck and place it face down in your player area; this is your Discard Pile.
 
-.
+After all players have set up their player area, shuffle all players' Character tiles together and place them in a random order on the Turn Order Track.
 
+## PLAYING THE GAME (Page 6)
 
-
-.
-
-
-
-Draw 8 cards from the Draw Deck; this is your Hand. Do not reveal your Hand to other players.
-
-
-
-.
-
-Draw 1 additional card from the Draw Deck and place it face down in your player area; this is your Discard Pile.
-
-Stack the matching coloured Industry tiles (which consist of Cotton Mills Iron Works Potteries their appropriate slots on your Player Mat. The side of the tiles with the black top half should be face down.
-
-## T
-
-## V
-
-## R
-
-## S
-
-## W
-
-## P
-
-,
-
-## , Coal Mines , Manufacturers
-
-## , ) On
-
-After all players have set up their player area, shuffle all players' Character tiles together and place them in a random order on the Turn Order Track
-
-## , And Breweries
-
-.
-
-## Q
-
-4
-
-3
-
-5
-
-Build - Place one of your Industry tiles onto the board, paying the appropriate cost and consuming any required coal / iron. Note: Only Build requires a specific card. Network - Expand your canal or rail network by adding Link tiles to the board. Develop - Gain access to higher-level industries by removing Industry tiles from your Player Mat. Sell - Flip your built Cotton Mill, Manufacturer, and/or Pottery tiles, by selling to a Merchant, and consuming beer if necessary. Loan - Take a £30 loan from the Bank, and move your Income Marker 3 income levels (not spaces) backwards. Scout - Discard 2 cards from your Hand (plus the card required to perform the action) and replace them with 1 Wild Industry and 1 Wild Location card. Exception: You may not perform this action if you already have a Wild card in your Hand.
-
-6
-
-## B
-
-## C
-
-## £
-
-£20
-
-## £
-
-## C
-
-## B
-
-## C
-
-## C
-
-## C
-
-## D
-
-## C
-
-## D
-
-## B
-
-2
-
-## End Of Round
-
-After all players have taken their turn, perform the following steps before moving on to the next round:
-
-Determine turn order for the next round Rearrange the Character tiles on the Turn Order Track.
-
-- The player who spent the least money this round will go first next round the player who spent the most . will go last • If multiple players have spent an equal amount, their relative turn order remains the same .
-
-## , And So On, While
-
-## E
-
-- Afterwards, take all money from the Character tiles, and place it back into the Bank . This resets the money spent, ready for the next round.
-
-## E
-
-Take Income Take money from the Bank equal to your income level. Exception: Income is not collected at the end of the final round of the game.
-
-- If you have a shortfall when paying negative income, you must acquire money by removing one or more of your Industry tiles (not Link tiles) from the board; each being worth half of its cost, rounded down. The removed tile is removed from the game. You keep any excess money.
-
-## F
-
-- Your income level is the number displayed on the coin beside your Income Marker's current location on the . Progress Track
-
-## A
-
-- If you have no way to pay a shortfall, lose 1 VP (if possible) for each £1 you are short.
-
-Note: You may remove any of your Industry tiles, but must stop as soon as you have acquired enough money to cover the shortfall. You may not sell Industry tiles for any reason other than paying for a shortfall.
-
-## , You
-
-- If your income level is negative
-
-must pay that amount of money to the Bank.
-
-## F
-
-P L A Y I N G T H E G A M E
-
-## Actions List
-
-## The Goal
+### The Goal (Page 6)
 
 The game is played over 2 eras: the Canal Era (1770-1830) and the Rail Era (1830-1870). The winner is the player who has the most Victory Points (VPs) following the end of the Rail Era. VPs are scored at the end of each era for your Link tiles and flipped Industry tiles.
 
-## Rounds
+### Rounds (Page 6)
 
 Each era is played in rounds, which continue until both the Draw Deck and players' Hands are exhausted. There are exactly 8/9/10 rounds per era in a 4/3/2-players game. During each round, players take turns in the order of their Character tiles on the Turn Order Track.
 
-## Player Turns
+### Player Turns (Page 6)
 
 On your turn, perform a total of 2 actions.
 
@@ -206,33 +89,55 @@ Exception: During the first round of the Canal Era, each player performs only 1 
 
 - Place all money spent during your turn on top of your Character tile on the Turn Order Track.
 
-- Once the Draw Deck has been
+- Once the Draw Deck has been exhausted, your Hand will decrease each round until you have no cards left.
 
-exhausted, your Hand will decrease each round until you have no cards left.
+
+### ACTIONS LIST (Page 6)
 
 For each action, you may choose to perform one of the following (you may perform the same action twice):
 
-## A
+1. Build - Place one of your Industry tiles onto the board, paying the appropriate cost and consuming any required coal / iron.
+Note: Only Build requires a specific card.
 
-Passing - You may choose to pass instead of performing an action, but must still discard a card for each action you pass. Spending Money Any time you spend money to perform an action, you must place it on top of your Character tile Turn Order Track. Placing spent money here, rather than in the Bank, will allow you to determine the players' turn order for the next round.
+2. Network - Expand your canal or rail network by adding Link tiles to the board.
+   
+3. Develop - Gain access to higher-level industries by removing Industry tiles from your Player Mat.
+   
+4. Sell - Flip your built Cotton Mill, Manufacturer, and/or Pottery tiles, by selling to a Merchant, and consuming beer if necessary.
+   
+5. Loan - Take a £30 loan from the Bank, and move your Income Marker 3 income levels (not spaces) backwards.
+   
+6. Scout - Discard 2 cards from your Hand (plus the card required to perform the action) and replace them with 1 Wild Industry and 1 Wild Location card.
+Exception: You may not perform this action if you already have a Wild card in your Hand.
 
-## On The
+- Passing - You may choose to pass instead of performing an action, but must still discard a card for each action you pass.
 
-B
+- Spending Money: Any time you spend money to perform an action, you must place it on top of your Character tile on the Turn Order Track. Placing spent money here, rather than in the Bank, will allow you to determine the players' turn order for the next round.
 
-## H
+### End Of Round (Page 6)
 
-## N
+After all players have taken their turn, perform the following steps before moving on to the next round:
 
-## H
+1. Determine turn order for the next round. Rearrange the Character tiles on the Turn Order Track.
 
-## J
+- The player who spent the least money this round will go first next round, and so on, while the player who spent the most will go last.
+  
+- If multiple players have spent an equal amount, their relative turn order remains the same.
 
-## J
+- Afterwards, take all money from the Character tiles, and place it back into the Bank. This resets the money spent, ready for the next round.
 
-## J
+2. Take Income
+Take money from the Bank equal to your income level. Exception: Income is not collected at the end of the final round of the game.
 
-## G
+- Your income level is the number displayed on the coin beside your Income Marker's current location on the . Progress Track.
+
+- If your income level is negative, you must pay that amount of money to the Bank.
+
+- If you have a shortfall when paying negative income, you must acquire money by removing one or more of your Industry tiles (not Link tiles) from the board; each being worth half of its cost, rounded down. The removed tile is removed from the game. You keep any excess money.
+
+- If you have no way to pay a shortfall, lose 1 VP (if possible) for each £1 you are short.
+
+Note: You may remove any of your Industry tiles, but must stop as soon as you have acquired enough money to cover the shortfall. You may not sell Industry tiles for any reason other than paying for a shortfall.
 
 ## End Of Canal & Rail Era
 
