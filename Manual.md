@@ -1,7 +1,7 @@
 
 ## Board Setup (Page 4)
 
-1. Place the board On either the day or night side.
+1. Place the board on either the day or night side.
    
 2. For a player count of less than 4, remove all cards and Merchant tiles that show a player count greater than your number of players, and return them to the box.
 
