@@ -7,45 +7,23 @@
 
 > The 2-player (2 avatar icons), 3-player (3 avatar icons), and 4-player (4 avatar icons) counts are shown in the bottom right corner on the front of the cards and along the top of the merchant tiles.
 
-3. Separate the Wild Location Wild Industry them face up on 2 of the Card Draw Areas.
-4. 
-Place 1 beer barrel on each beer barrel space beside a (non-blank) . Merchant tile
+3. Separate the Wild Location and Wild Industry cards, and place them face up on 2 of the Card Draw Areas
 
-Place 1 black cube on each space of the Coal Market the £1 spaces open.
+4. Shuffle the remaining cards and place them face down on the remaining Card Draw Area; this is the Draw Deck.
 
+5. Shuffle the remaining Merchant tiles, and place 1 (face up) on each of the Merchant spaces marked with the number of players in your game, located near the edges of the board.
 
+6. Place 1 beer barrel on each beer barrel space beside a (non-blank) Merchant tile.
 
-, leaving 1 of
+7. Place 1 black cube on each space of the Coal Market J , leaving 1 of the £1 spaces open.
 
-4
+8. Place 1 orange cube on each space of the Iron Market K , leaving both of the £1 spaces open.
 
+9. Place the remaining cubes and beer barrels beside the board; this is the General Supply.
 
+Note: The General Supply is limitless. If you need more of a resource, represent it with something else.
 
-Place 1 orange cube on each space of the Iron Market of the £1 spaces open.
-
-, leaving both
-
-## E
-
-Place the remaining cubes and beer barrels beside the board; this is the General Supply Note: The General Supply is limitless. If you need more of a resource, represent it with something else.
-
-),
-
-## ), 3-Player (
-
-
-
-.
-
-) counts are
-
-5
-
-.
-
-Place the money beside the board; this is the Bank
-
-.
+10. Place the money beside the board; this is the Bank.
 
 ## F
 
@@ -57,13 +35,6 @@ Place the money beside the board; this is the Bank
 
 ## F
 
-Shuffle the remaining cards and place them face down on the remaining Card Draw Area is the Draw Deck.
-
-## ; This
-
-Shuffle the remaining Merchant tiles, and place 1 (face up) on each of the Merchant spaces marked with the number of players in your game located near the edges of the board.
-
-,
 
 ## Location Banners
 
