@@ -389,176 +389,102 @@ Exception: Wild cards are placed back onto their Card Draw Area.
 
 2. Choose 1 of your unflipped Cotton Mill, Manufacturer, or Pottery tiles, that is connected to a Merchant tile featuring that industry's icon.
 
-3. Consume the required amount of beer, shown in the top right corner of the Industry tile. If there is a beer barrel on the space beside the Merchant tile you are selling to, you may consume this beer as part of the Sell action, and collect the  Merchant beer bonus (see “Merchant Beer Bonuses”).
+3. Consume the required amount of beer, shown in the top right corner of the Industry tile. If there is a beer barrel on the space beside the Merchant tile you are selling to, you may consume this beer as part of the Sell action, and collect the Merchant beer bonus (see “Merchant Beer Bonuses”).
 
+4. Flip the Industry tile and advance your Income Marker along the Progress Track by the number of spaces shown in the bottom right corner of the tile.
 
-
-
-Merchant Beer Bonuses Merchant beer may only be consumed as part of a Sell action. If you consume a Merchant beer, you also receive the bonus displayed beside that Merchant tile's location:
-
-- Develop (Gloucester) Remove 1 of the lowest level tiles of any industry from your Player Mat (for no iron cost). Exception: You cannot remove a Pottery tile showing a and the Lightbulb Icon"). • Income (Oxford) Advance your Income Marker 2 spaces along the Progress Track.
-
-4
-
-- Victory Points
-
-## C
-
-(Nottingham and Shrewsbury) Advance your VP Marker along the Progress Track by the number of spaces indicated. • Money (Warrington) Receive £5 from the Bank.
-
-2
-
-.
-
-5
-
-## And
-
-## A C T I O N S
-
-
-
-
-
-## On The Space Beside
-
-the Merchant tile you are selling to, you may consume this beer as part of the Sell action, and collect the Merchant beer bonus (see "Merchant Beer Bonuses").
-
-Flip the Industry tile and advance your Income Marker along the Progress Track by the number of spaces shown in the bottom right corner of the tile.
-
-You may go back to step repeat the process for each of your unflipped Industry tiles (including those of a different industry).
+5. You may go back to step repeat the process for each of your unflipped Industry tiles (including those of a different industry).
 
 Note: You cannot perform the Sell action if you cannot consume the required beer (see "Consuming Beer").
 
-2
+#### Merchant Beer Bonuses
+Merchant beer may only be consumed as part of a Sell action. If you consume a Merchant beer, you also receive the bonus displayed beside that Merchant tile's location:
 
-## F
+- Develop (Gloucester)
+Remove 1 of the lowest level tiles of any industry from your Player Mat (for no iron cost).
+Exception: You cannot remove a Pottery tile showing a Lightbulb Icon (see "Potteries and the Lightbulb Icon). 
 
-## Loan Action
+- Income (Oxford)
+Advance your Income Marker 2 spaces along the Progress Track.
 
-Performing the Loan action allows you to acquire more money. Loans are never repaid, but instead lower your income level. To perform the Loan action:
+- Victory Points (Nottingham and Shrewsbury)
+Advance your VP Marker along the Progress Track by the number of spaces indicated.
 
-Discard any card from your Hand, and place it face up onto your Discard Pile. Exception: Wild cards are placed back onto their Card Draw Area.
+- Money (Warrington)
+Receive £5 from the Bank.
 
-Take £30 from the bank, and move your Income Marker 3 income levels (not spaces) backwards down the Progress Track . Place your Income
+### Loan Action
 
-Marker on the highest space within the new lower income level. Exception: You cannot take a loan if it will take your income level below -10.
+Performing the Loan action allows you to acquire more money. Loans are never repaid, but instead lower your income level.
 
-## Scout Action
+#### To perform the Loan action:
 
-1
+1. Discard any card from your Hand, and place it face up onto your Discard Pile.
+Exception: Wild cards are placed back onto their Card Draw Area.
 
-Performing the Scout action allows you to acquire Wild cards, which provide increased flexibility in where you may build. The Wild Industry card can be played as any Industry card. The Wild Location card can be played as any Location card. When discarded, a Wild card is placed back onto its Card Draw Area, not onto your Discard Pile. To perform the Scout action:
+2. Take £30 from the bank, and move your Income Marker 3 income levels (not spaces) backwards down the Progress Track. Place your Income Marker on the highest space within the new lower income level.
+Exception: You cannot take a loan if it will take your income level below -10.
 
-2
+### Scout Action
 
-Discard any card from your Hand, plus 2 additional cards and place them face up onte your Discard Pile.
+Performing the Scout action allows you to acquire Wild cards, which provide increased flexibility in where you may build. The Wild Industry card can be played as any Industry card. The Wild Location card can be played as any Location card. When discarded, a Wild card is placed back onto its Card Draw Area, not onto your Discard Pile.
 
-Take 1 Wild Location and 1 Wild Industry card. Note: You may not perform this action if you already have a Wild card in your Hand.
+#### To perform the Scout action:
 
-## F
+1. Discard any card from your Hand, plus 2 additional cards and place them face up onte your Discard Pile.
 
-## A C T I O N S
+2. Take 1 Wild Location and 1 Wild Industry card.
+Note: You may not perform this action if you already have a Wild card in your Hand.
 
-## Develop Action
+### Develop Action
 
-Performing the Develop action allows you to remove Industry tiles from your Player Mat. This allows you to gain access to higher-level Industry tiles without having to build all of the lower-level tiles of that industry. To perform the Develop action:
+Performing the Develop action allows you to remove Industry tiles from your Player Mat. This allows you to gain access to higher-level Industry tiles without having to build all of the lower-level tiles of that industry.
 
-1
+#### To perform the Develop action:
 
-Discard any card from your Hand, and place it face up onto your Discard Pile. Exception: Wild cards are placed back onto their Card Draw Area.
+1. Discard any card from your Hand, and place it face up onto your Discard Pile.
+Exception: Wild cards are placed back onto their Card Draw Area.
 
-## G
+2. Remove 1 or 2 Industry tiles from your Player Mat, and return them to the box. Each Industry tile is removed separately and does not need to be of the same industry, but must be the lowest level tile of the chosen industry (as it is removed).
 
-## G
+3. Consume 1 iron for each tile removed (see "Consuming Iron").
 
-## G
+#### Potteries and the Lightbulb Icon
 
-## J
+Pottery tiles that show a lightbulb icon may not be developed. These tiles may only be removed from your Player Mat through use of the Build action. They must be removed before you can access the higher-level Pottery tiles.
 
-## I
-
-Remove 1 or 2 Industry tiles from your Player Mat, and return them to the box. Each Industry tile is removed separately and does not need to be of the same industry, but must be the lowest level tile of the chosen industry (as it is . removed) Consume 1 iron for each tile removed (see "Consuming Iron").
-
-## J
-
-## I
-
-## H
-
-Potteries and the Lightbulb Icon Pottery tiles that show a icon may not be developed. These tiles may only be removed from your Player Mat through use of the Build action. They must be removed before you can access the higher-level Pottery tiles.
-
-Network During Canal Era: • You may not build rail Links. • You may build canal Links on
-
-.
-
-## Undeveloped Canal Lines
-
-## J
-
-- You may build a maximum of 1 canal Link for £3.
-
-Network During Rail Era: • You may not build canal Links. • You may build rail Links on undeveloped railroad lines
-
-.
-
-## I
-
-- You may build 1 rail Link for £5. • In a single Network action, you may build a maximum of 2 rail Links for £15, if you also consume 1 beer. This beer must be consumed from a Brewery (not a Merchant beer). Remember: If consuming beer from another player's Brewery, it must be connected to the second rail Link (after it is placed).
-
-- You must consume 1 coal
-
-for each rail Link built (see "Consuming Coal") Remember: Each rail Link is placed separately and must be connected to a source of coal (after it is placed).
-
-2
-
-## H
-
-## Network Action
+### Network Action
 
 Performing the Network action allows you to place Link tiles, which expand your network and gain you access to new locations.
 
-To perform the Network action:
+#### To perform the Network action:
 
-Discard any card from your Hand, and place it face up onto your Discard Pile. Exception: Wild cards are placed back onto their Card Draw Area.
+1. Discard any card from your Hand, and place it face up onto your Discard Pile.
+Exception: Wild cards are placed back onto their Card Draw Area.
 
-Place a Link tile on an undeveloped line on the board . The placed Link tile must be adjacent to a location that is a part of your network (see "Your Network"). Exception: If you have no Industry or Link tiles on the board, you may place a Link tile on any undeveloped line (you must still consume coal if building a rail Link).
+2. Place a Link tile on an undeveloped line on the board. The placed Link tile must be adjacent to a location that is a part of your network (see "Your Network").
+Exception: If you have no Industry or Link tiles on the board, you may place a Link tile on any undeveloped line (you must still consume coal if building a rail Link).
 
-## B
+#### Network During Canal Era:
+- You may not build rail Links.
 
-## A
+- You may build canal Links on underdeveloped canal lines.
 
-## B
+- You may build a maximum of 1 canal Link for £3.
 
-## A
+#### Network During Rail Era:
+- You may not build canal Links.
 
-## B
+- You may build rail Links on undeveloped railroad lines.
 
-## B
+- You may build 1 rail Link for £5.
 
-T I P S A N D V A R I A N T S
+- In a single Network action, you may build a maximum of 2 rail Links for £15, if you also consume 1 beer. This beer must be consumed from a Brewery (not a Merchant beer). Remember: If consuming beer from another player's Brewery, it must be connected to the second rail Link (after it is placed).
 
-## Beginner Tips
+- You must consume 1 coal for each rail Link built (see "Consuming Coal")
+Remember: Each rail Link is placed separately and must be connected to a source of coal (after it is placed).
 
-- Do not be afraid of taking loans. Your income level at the end of the game is not worth VPs. It is not uncommon for experienced players to win the game despite having a low income level.
-
-- Level 2 or greater Industry tiles are not removed at the end of the Canal Era, so could score twice if built early. A flipped level 3 Cotton Mill would score a whopping 18 VPs over both eras. The Develop action is your friend.
-
-- Be careful when developing Breweries. Remember that beer is required to perform the Sell action, so having no access to beer that belongs to you can be devastating to your long-term strategy.
-
-- Tiles with a
-
-to the left of their slot on your Player Mat cannot be built during the Rail Era. Try to build or develop at least 1 Coal Mine and 1 Iron Works during the Canal Era, so that you do not have to use a Develop action during the Rail Era to clear these industries from your Player Mat.
-
-- Figuring out how best to expand your network at the beginning of the Rail Era can be difficult for beginners. Expand your network by building rail Links to sources of coal. If you don't have access to any coal, build a Coal Mine.
-
-Players then score additional points as follows:
-
-Money Score 1 VP for every £4 in your player area (up to a maximum of 15 VPs). Income level Score VPs equal to your income level. If your income level is negative, you lose VPs.
-
-Industry tiles Score the points a second time for all your level 2 or greater Industry tiles.
-
-## Understanding Your Networks
+## TIPS AND VARIANTS
 
 ## Things To Remember
 
@@ -568,13 +494,11 @@ Industry tiles Score the points a second time for all your level 2 or greater In
 
 - During the Canal Era, each player may place a maximum of 1 of their Industry tiles in each location.
 
-- You may Overbuild any of your Industry tiles without restriction. • You may also Overbuild opponents' Coal Mines/Iron Works, but only when there are no coal/iron cubes left on any Industry tiles or in the Market.
+- You may Overbuild any of your Industry tiles without restriction.
 
-- You must be connected to a
+- You may also Overbuild opponents' Coal Mines/Iron Works, but only when there are no coal/iron cubes left on any Industry tiles or in the Market.
 
-## To
-
-sell cotton, manufactured goods, or pottery; and to consume coal (but not iron) from the Market.
+- You must be connected to a (two arrows in the opposite direction) to sell cotton, manufactured goods, or pottery; and to consume coal (but not iron) from the Market.
 
 - You do not need to be connected to consume your own Breweries' beer, but must be connected to other players' Breweries, or to Merchant beer (only available when selling).
 
@@ -582,11 +506,19 @@ sell cotton, manufactured goods, or pottery; and to consume coal (but not iron) 
 
 - Unlike the other level 1 Industry tiles, the level 1 Pottery tile may be built during the Rail Era.
 
-## Introductory Game
+## Beginner Tips
 
-Since Brass is such a deep game, some players may prefer to play a shorter introductory game for their first experience. The introductory game plays exactly like the full game, except you only play the Canal Era and there are additional scoring rules to make players' scores more closely reflect their success in the Canal Era.
+- Do not be afraid of taking loans. Your income level at the end of the game is not worth VPs. It is not uncommon for experienced players to win the game despite having a low income level.
 
-To play the introductory game, first, play the entire Canal Era as normal, including the end of Canal Era scoring.
+- Level 2 or greater Industry tiles are not removed at the end of the Canal Era, so could score twice if built early. A flipped level 3 Cotton Mill would score a whopping 18 VPs over both eras. The Develop action is your friend.
+
+- Be careful when developing Breweries. Remember that beer is required to perform the Sell action, so having no access to beer that belongs to you can be devastating to your long-term strategy.
+
+- Tiles with a (circle with the blue in the left, and white in the right) to the left of their slot on your Player Mat cannot be built during the Rail Era. Try to build or develop at least 1 Coal Mine and 1 Iron Works during the Canal Era, so that you do not have to use a Develop action during the Rail Era to clear these industries from your Player Mat.
+
+- Figuring out how best to expand your network at the beginning of the Rail Era can be difficult for beginners. Expand your network by building rail Links to sources of coal. If you don't have access to any coal, build a Coal Mine.
+
+### Understanding Your Networks
 
 This diagram will help you better understand the concept of "your network" and the rules behind the Network action.
 
@@ -594,14 +526,24 @@ This diagram will help you better understand the concept of "your network" and t
 
 - The blue shades denote your network; as your network is a location that includes any of your industry tiles and any locations adjacent to one of your links. As you have a link from Birmingham to Redditch, Redditch is part of your network, even though you don't own an industry tile there.
 
-- The yellow shades denote valid link placement as they are all rails adjacent to your network. • If you performed the Network action to build rail Link , it would be possible to build a second rail Link cost, and consume the necessary coal and beer). Note: You can expand over the board quickly by networking (placing links) and avoiding placing industry tiles.
+- The yellow shades denote valid link placement as they are all rails adjacent to your network.
 
-1
+- If you performed the Network action to build rail Link, it would be possible to build a second rail Link in the same Network action (as long as you could pay the required cost, and consume the necessary coal and beer).
+Note: You can expand over the board quickly by networking (placing links) and avoiding placing industry tiles.
 
-2
+### Introductory Game
 
-3
+Since Brass is such a deep game, some players may prefer to play a shorter introductory game for their first experience. The introductory game plays exactly like the full game, except you only play the Canal Era and there are additional scoring rules to make players' scores more closely reflect their success in the Canal Era.
 
-=
+To play the introductory game, first, play the entire Canal Era as normal, including the end of Canal Era scoring.
 
-=
+Players then score additional points as follows:
+
+1. Money
+Score 1 VP for every £4 in your player area (up to a maximum of 15 VPs).
+
+2. Income level
+Score VPs equal to your income level. If your income level is negative, you lose VPs.
+
+3. Industry tiles
+Score the points a second time for all your level 2 or greater Industry tiles.
