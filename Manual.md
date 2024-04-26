@@ -170,7 +170,7 @@ Remember: The bottom card of each Discard Pile will be face down, and need turni
 6. Draw New Hands
 Each player draws 8 cards from the newly shuffled Draw Deck.
 
-### Winning the game
+### Winning the game (Page 7)
 
 After Performing Rail Era Scoring:
 
@@ -180,190 +180,184 @@ After Performing Rail Era Scoring:
 
 - If still tied, those players draw.
 
+## Gameplay Concepts (Page 8)
 
-board as they are scored.
-
-.
-
-
-
-.
-
-## J
-
-## J
-
-## E
-
-## K
-
-## J
-
-## F
-
-## D
-
-## C
-
-## F
-
-## J
-
-1
-
-## H
-
-1
-
-2
-
-## K
-
-## Consuming Beer
-
-You may be required to consume beer when selling cotton, manufactured goods, or pottery; or when performing the Network action during the Rail Era. The amount required, if any, will be shown in the top right corner of the Industry tile.
-
-3
-
-## Consuming Iron
-
-2
-
-Iron is required to perform the Develop action, and to build certain Industry tiles.
-
-## I
-
-Beer may be consumed from any of the following sources: Your unflipped Breweries . These do not need to be connected to the location where the beer is required.
-
-To consume iron, an Industry tile does not need a connection to a source of iron.
-
-Iron must be consumed from: Any unflipped Iron Works (owned by any player); it does not have to be the closest. If you need more than 1 iron, you can consume each iron from a different Iron Works. Consuming iron in this way is free.
-
-An opponent's unflipped Brewery . These must be connected to
-
-the location where the beer is required.
-
-The space beside a Merchant tile that you are selling to (see "Action - Sell").
-
-If there are no unflipped Iron Works, you can purchase iron from the Iron Market , starting at the cheapest price. If the Iron Market is empty, you can still purchase iron for £6 /
-
-When multiple beer barrels are required, each beer may be consumed from a different source.
-
-.
-
-Consumed iron cubes are placed back into the General Supply.
-
-Consumed beer barrels are placed back into the General Supply.
-
-Historical Note: These industries generally required iron in low volumes, so it could also be transported via horse and wagon.
-
-Historical Note: Unpolluted drinking water was in short supply in expanding settlements, so beer was often the purest and safest drink available.
-
-## I
-
-## G
-
-## B
-
-## H
-
-## A
-
-G A M E P L A Y C O N C E P T S
-
-## Flipping Industry Tiles
-
-## A
+### Flipping Industry Tiles (Page 8)
 
 At the end of each era, flipped Industry tiles score VPs. When flipped, they have a black top half and a VP icon in the bottom left corner.
 
-Different Industry tiles are flipped in different ways: • Cotton Mills,
+#### Different Industry tiles are flipped in different ways:
 
-Manufacturers, and Potteries: Flip when you perform a Sell action.
+- Cotton Mills, Manufacturers, and Potteries: Flip when you perform a Sell action.
 
 - Coal Mines, Iron Works, and Breweries: Flip when the last resource is removed from the tile. This often happens during an opponent's turn.
 
-## Increasing Your Income
+### Increasing Your Income (Page 8)
 
-Whenever one of your Industry tiles is flipped your income is increased. To increase your income, immediately advance your Income Marker along the Progress Track
+Whenever one of your Industry tiles is flipped your income is increased. To increase your income, immediately advance your Income Marker along the Progress Track by the Number of spaces (not income levels) shown.
+Exception: You cannot increase your income level above level 30.
 
-## B
-
-## By The Number Of Spaces (Not Income
-
-## C
-
-levels) shown. Exception: You cannot increase your income level above level 30.
-
-## Your Network
+### Your Network (Page 8)
 
 A location on the board is considered to be a part of your network if at least one of the following is true:
 
-- The location contains one or more of ;
+- The location contains one or more of your industry tiles.
 
-- The location is adjacent to one or more .
+- The location is adjacent to one or more of your Link tiles.
 
-## D
+### Connected Locations (Page 8)
 
-## E
+Two locations are considered "connected" to each other if you can trace a route of Link tiles (owned by any player) from one location to the other.
 
-## Connected Locations
-
-Two locations are considered "connected" to each other if you can trace a route of Link tiles (owned by any player) from one location
-
-## To The Other
-
-.
-
-1
-
-2
-
-## G
-
-## Consuming Coal
+### Consuming Coal (Page 8)
 
 Coal is required to build rail Links and certain Industry tiles.
 
 To consume coal, a rail Link or Industry tile must be connected to a source of coal (after it is placed).
 
-Coal must be consumed from:
+#### Coal must be consumed from:
 
-The closest (fewest Link tiles distant) connected unflipped Coal Mine (owned by any player). If multiple Coal Mines are equally close, choose one. If a Coal Mine runs out of coal, and you need more, choose the next closest Coal Mine. Consuming coal in this way is free.
+1. The closest (fewest Link tiles distant) connected unflipped Coal Mine (owned by any player). If multiple Coal Mines are equally close, choose one. If a Coal Mine runs out of coal, and you need more, choose the next closest Coal Mine. Consuming coal in this way is free.
 
-If you are not connected to an unflipped Coal Mine, you can purchase coal from the Coal Market , starting at the cheapest price.
-
-This requires a connection to a icon (shown on the
-
-Warrington, Shrewsbury, Nottingham, Gloucester, and Oxford Merchants around the edge of the board). If the Coal Market is empty, you can still purchase coal for £8 /
-
-.
+2. If you are not connected to an unflipped Coal Mine, you can purchase coal from the Coal Market, starting at the cheapest price. This requires a connection to a icon (shown on the Warrington, Shrewsbury, Nottingham, Gloucester, and Oxford Merchants around the edge of the board). If the Coal Market is empty, you can still purchase coal for £8.
 
 Consumed coal cubes are placed back into the General Supply.
 
 Historical Note: Coal was required in large quantities, so a robust transportation network was critical.
 
-## Build Action
 
-Performing the Build action allows you to place Industry tiles onto a location on the board. To perform the Build action:
+### Consuming Iron (Page 8)
 
-Discard an appropriate card. Unlike other actions, which allow you to use any card from your Hand, the Build action requires an appropriate card be discarded face up onto your Discard Pile:
+Iron is required to perform the Develop action, and to build certain Industry tiles.
+
+To consume iron, an Industry tile does not need a connection to a source of iron.
+
+#### Iron must be consumed from:
+
+1. Any unflipped Iron Works (owned by any player); it does not have to be the closest. If you need more than 1 iron, you can consume each iron from a different Iron Works. Consuming iron in this way is free.
+   
+2. If there are no unflipped Iron Works, you can purchase iron from the Iron Market , starting at the cheapest price. If the Iron Market is empty, you can still purchase iron for £6.
+
+Consumed iron cubes are placed back into the General Supply.
+
+Historical Note: These industries generally required iron in low volumes, so it could also be transported via horse and wagon.
+
+### Consuming Beer (Page 8)
+
+You may be required to consume beer when selling cotton, manufactured goods, or pottery; or when performing the Network action during the Rail Era. The amount required, if any, will be shown in the top right corner of the Industry tile.
+
+#### Beer may be consumed from any of the following sources: (Page 8)
+
+1. Your unflipped Breweries . These do not need to be connected to the location where the beer is required.
+
+2. An opponent's unflipped Brewery. These must be connected to the location where the beer is required.
+
+3. The space beside a Merchant tile that you are selling to (see "Action - Sell").
+
+When multiple beer barrels are required, each beer may be consumed from a different source.
+
+Consumed beer barrels are placed back into the General Supply.
+
+Historical Note: Unpolluted drinking water was in short supply in expanding settlements, so beer was often the purest and safest drink available.
+
+## Actions (Page 9)
+
+### Build Action (Page 9)
+
+Performing the Build action allows you to place Industry tiles onto a location on the board.
+
+#### To perform the Build action:
+
+1. Discard an appropriate card. Unlike other actions, which allow you to use any card from your Hand, the Build action requires an appropriate card be discarded face up onto your Discard Pile:
 
 Exception: Wild cards are placed back onto their Card Draw Area.
 
-- Location card May be used to build any Industry tile at the location named on the card, even if the location is not a part of your network.
+- Location card
+May be used to build any Industry tile at the location named on the card, even if the location is not a part of your network.
 
-- Wild Location
-
-card May be played as any Location card. This does not include the 2 Farm Breweries (see "Farm Breweries").
+- Wild Location card
+May be played as any Location card. This does not include the 2 Farm Breweries (see "Farm Breweries").
 
 - Industry card
-
 May be used to build the Industry tile matching an icon shown in the top corner of the card, in a location that is a part of your network.
 
-## O
+- Wild Industry card
+May be played as any Industry card.
 
-- Wild Industry card May be played as any Industry card.
+Note: In 2/3-player games you may still build in any location.
+
+2. Take the lowest level tile of the chosen industry from your Player Mat and place it (the side with the black top half face down) on an undeveloped space in your chosen build location, obeying the following rules:
+
+- If possible, place it on a space displaying only that industry's icon.
+
+- Otherwise, place it on a space displaying that industry's icon with another industry's icon with another industry's icon.
+
+- If no undeveloped spaces display your industry's icon, you may not place it in that location.
+
+Exception: (see "Overbuilding")
+
+3. The cost of the Industry tile you are building is displayed, to the left of its slot, on your Player Mat. Pay money onto your Character tile on the Turn Order Track, and consume any required iron and coal.
+
+Remember: If coal is required, the location you are building in must be connected to a source of coal (see "Consuming Coal" and "Connected Locations").
+
+4. If you build a: 
+ 
+#### Coal Mine Or Iron Works
+Place coal or iron (from the General Supply) onto the Industry tile, equal to the quantity shown in the bottom right corner of the tile. 
+
+#### Brewery
+Place 1 beer barrel on the Industry tile if it is built during the Canal Era, or 2 beer barrels if it is built during the Rail Era.
+
+#### Moving Coal and Iron to the Market
+
+If you build either a:
+
+- Coal Mine that is connected to any Merchant space (even those without 
+Merchant tiles);
+
+Or
+
+- Iron Works, regardless of whether or not it is connected to a Merchant space:
+
+1. You must immediately move as many cubes as possible from the Industry tile to available spaces in its associated Market (filling the most expensive spaces first).
+
+2. For each cube moved, collect the corresponding amount of money displayed on the coin to the left side of its Market space.
+
+3. If the last cube is moved from your Industry tile to its Market, flip the Industry tile and advance your Income Marker along the Progress Track by the number of spaces shown in the bottom right corner of the tile.
+
+Note: Coal and iron cubes may only be sold to their Markets during the action when their Industry tile is built. They are never sold to their Markets in later turns.
+
+Farm Breweries There are 2 unnamed locations, each with 1 space displaying a Brewery icon; these are Farm Breweries.
+
+## P
+
+
+
+.
+
+- You may only build in these locations using a Brewery Industry card or a Wild Industry card.
+
+
+
+## And Advance
+
+- A Link tile is required to
+
+## Connect Cannock To The Farm Brewery To Its Left.
+
+- A Link tile placed between
+
+Kidderminster and Worcester also connects both locations to the Farm Brewery to their left. A second Link tile is not required; nor may it be placed there.
+
+
+
+.
+
+
+
+## Q
+
+
 
 ## L
 
@@ -397,9 +391,6 @@ May be used to build the Industry tile matching an icon shown in the top corner 
 
 Building If You Have No Tiles on the Board If you have no Industry or Link tiles on the board, you may also (as an action) discard:
 
-Moving Coal and Iron to the Market If you build either a:
-
-- Coal Mine that is connected to any Merchant space
 
 - An Industry card to build the matching Industry tile in any location with an undeveloped space displaying that industry's icon; • Any card to build a Link tile on any undeveloped line on the board.
 
@@ -407,55 +398,11 @@ Moving Coal and Iron to the Market If you build either a:
 
 ## Merchant Tiles); Or
 
-- Iron Works, regardless of whether or not it is connected to a Merchant space:
 
-You must immediately move as many cubes as possible from the Industry tile to available spaces in its associated Market (filling the most expensive spaces first).
 
-Farm Breweries There are 2 unnamed locations, each with 1 space displaying a Brewery icon; these are Farm Breweries.
+Moving Coal and Iron to the Market If you build either a:
 
-## P
 
-For each cube moved, collect the corresponding amount of money displayed on the coin to the left side of its Market space
-
-.
-
-- You may only build in these locations using a Brewery Industry card or a Wild Industry card.
-
-If the last cube is moved from your Industry tile to its Market, flip the Industry tile your Income Marker along the Progress Track by the number of spaces shown in the bottom right corner of the tile.
-
-## And Advance
-
-- A Link tile is required to
-
-## Connect Cannock To The Farm Brewery To Its Left.
-
-- A Link tile placed between
-
-Kidderminster and Worcester also connects both locations to the Farm Brewery to their left. A second Link tile is not required; nor may it be placed there.
-
-Note: In 2/3-player games you may still build in any location.
-
-Take the lowest level tile chosen industry from your Player Mat and place it (the side with the black top half face down) on an undeveloped space in your chosen build location, obeying the following rules:
-
-## Of The
-
-- If possible, place it on a space displaying only that industry's icon .
-
-- Otherwise, place it on a space displaying that industry's icon with another industry's icon .
-
-- If no undeveloped spaces display your industry's icon, you may not place it in that location. Exception: (see "Overbuilding") The cost of the Industry tile you are building is displayed, to the left of its slot, on your Player Mat . Pay money onto your Character tile on the Turn Order Track, and consume any required iron and coal Remember: If coal is required, the location you are building in must be connected to a source of coal (see "Consuming Coal" and "Connected Locations").
-
-.
-
-## If You Built A: Coal Mine Or Iron Works Place Coal
-
-## Or Iron (From The General
-
-Supply) onto the Industry tile, equal to the quantity shown in the bottom right corner of the tile. Brewery Place 1 beer barrel on the Industry tile if it is built during the Canal Era, or 2 beer barrels if it is built during the Rail Era.
-
-## Q
-
-Note: Coal and iron cubes may only be sold to their Markets during the action when their Industry tile is built. They are never sold to their Markets in later turns.
 
 BUILD ACTION (CONTINUED) Canal Era Building • You may have a maximum of 1 Industry
 
