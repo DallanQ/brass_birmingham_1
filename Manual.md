@@ -180,45 +180,6 @@ After Performing Rail Era Scoring:
 
 - If still tied, those players draw.
 
-
-board as they are scored.
-
-.
-
-
-
-.
-
-## J
-
-## J
-
-## E
-
-## K
-
-## J
-
-## F
-
-## D
-
-## C
-
-## F
-
-## J
-
-1
-
-## H
-
-1
-
-2
-
-## K
-
 ## Consuming Beer
 
 You may be required to consume beer when selling cotton, manufactured goods, or pottery; or when performing the Network action during the Rail Era. The amount required, if any, will be shown in the top right corner of the Industry tile.
