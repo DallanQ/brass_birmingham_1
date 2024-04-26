@@ -327,112 +327,72 @@ Or
 
 Note: Coal and iron cubes may only be sold to their Markets during the action when their Industry tile is built. They are never sold to their Markets in later turns.
 
-Farm Breweries There are 2 unnamed locations, each with 1 space displaying a Brewery icon; these are Farm Breweries.
+#### Building If You Have No Tiles on the Board
 
-## P
+If you have no Industry or Link tiles on the board, you may also (as an action) discard:
 
+- An Industry card to build the matching Industry tile in any location with an undeveloped space displaying that industry's icon;
+- Any card to build a Link tile on any undeveloped line on the board.
 
+#### Farm Breweries
 
-.
+There are 2 unnamed locations, each with 1 space displaying a Brewery icon; these are Farm Breweries.
 
 - You may only build in these locations using a Brewery Industry card or a Wild Industry card.
 
+- A Link tile is required to connect Cannock to the Farm Brewery to its left.
+
+- A Link tile placed between Kidderminster and Worcester also connects both locations to the Farm Brewery to their left. A second Link tile is not required; nor may it be placed there.
+
+### BUILD ACTION (CONTINUED) (Page 10)
+
+#### Canal Era Building
+
+- You may have a maximum of 1 Industry tile per location, but may have an Industry tile in the same location as other players.
+
+- Industry tiles with a (circle that fills white in the left, and black in the right) to the left of their slot on your Player Mat may not be built.
+
+#### Rail Era Building
+- You may build multiple Industry tiles in each location.
+
+- Industry tiles with a (circle that fills blue in the left, and white in the right) to the left of their slot on your Player Mat may not be built. To remove these tiles (and access the higher-level tiles) you must perform the Develop action.
+
+#### Overbuilding
+Sometimes you are allowed to replace an already placed Industry tile with a higher- level tile of the same industry type (you must still pay the necessary build costs). This is known as Overbuilding. When Overbuilding:
 
 
-## And Advance
+If the tile you are replacing is your own:
 
-- A Link tile is required to
-
-## Connect Cannock To The Farm Brewery To Its Left.
-
-- A Link tile placed between
-
-Kidderminster and Worcester also connects both locations to the Farm Brewery to their left. A second Link tile is not required; nor may it be placed there.
+- You may Overbuild any Industry tile.
+- If there are any iron / coal / beer on the tile being replaced, place them back into the General Supply.
 
 
+If the tile you are replacing is owned by an opponent:
 
-.
+- You may Overbuild only a Coal Mine or an Iron Works.
+To perform the Sell action:
+- There must be no resource cubes on the entire board, including in its Market, of the same type as the Industry tile being replaced.
 
+Remove overbuilt Industry tiles from the game, and return them to the box (they will not score VPs). Players do not lose previously gained income or VPs if their Industry tiles are overbuilt.
 
+### Sell Action
 
-## Q
+Performing the Sell action allows you to flip built Cotton Mill, Manufacturer, and Pottery tiles. Selling requires:
 
+- Connection to a Merchant tile.
+- Beer (usually).
 
+#### To perform the Sell actions:
 
-## L
+1. Discard any card from your Hand and place it face up onto your Discard Pile.
+Exception: Wild cards are placed back onto their Card Draw Area.
 
-3
+2. Choose 1 of your unflipped Cotton Mill, Manufacturer, or Pottery tiles, that is connected to a Merchant tile featuring that industry's icon.
 
-## N
-
-## A C T I O N S
-
-4
-
-## M
-
-## L
-
-## M
-
-## N
-
-2
-
-3
-
-## P
-
-## O
-
-## Q
-
-## O
-
-Building If You Have No Tiles on the Board If you have no Industry or Link tiles on the board, you may also (as an action) discard:
-
-
-- An Industry card to build the matching Industry tile in any location with an undeveloped space displaying that industry's icon; • Any card to build a Link tile on any undeveloped line on the board.
-
-## (Even Those Without
-
-## Merchant Tiles); Or
+3. Consume the required amount of beer, shown in the top right corner of the Industry tile. If there is a beer barrel on the space beside the Merchant tile you are selling to, you may consume this beer as part of the Sell action, and collect the  Merchant beer bonus (see “Merchant Beer Bonuses”).
 
 
 
-Moving Coal and Iron to the Market If you build either a:
-
-
-
-BUILD ACTION (CONTINUED) Canal Era Building • You may have a maximum of 1 Industry
-
-tile per location, but may have an Industry tile in the same location as other players.
-
-- Industry tiles with a
-
-to the left of their slot on your Player Mat may not be built.
-
-Rail Era Building • You may build multiple Industry tiles in
-
-## Each Location.
-
-- Industry tiles with a
-
-to the left of their slot on your Player Mat may not be built. To remove these tiles (and access the higher-level tiles) you must perform the Develop action.
-
-## A
-
-## B
-
-3
-
-2
-
-## C
-
-## D
-
-## E
 
 Merchant Beer Bonuses Merchant beer may only be consumed as part of a Sell action. If you consume a Merchant beer, you also receive the bonus displayed beside that Merchant tile's location:
 
@@ -456,47 +416,9 @@ Merchant Beer Bonuses Merchant beer may only be consumed as part of a Sell actio
 
 ## A C T I O N S
 
-## Sell Action
 
-Overbuilding Sometimes you are allowed to replace an already placed Industry tile with a higher- level tile of the same industry type (you must still pay the necessary build costs). This is known as Overbuilding. When Overbuilding:
 
-Performing the Sell action allows you to flip built Cotton Mill, Manufacturer, and Pottery tiles. Selling requires:
 
-- Connection to a Merchant tile. • Beer (usually).
-
-If the tile you are replacing is your own
-
-To perform the Sell action:
-
-:
-
-- You may Overbuild any Industry tile. • If there are any iron / coal / beer on the tile being replaced, place them back into the General Supply.
-
-If the tile you are replacing is owned by an opponent
-
-:
-
-- You may Overbuild only a Coal Mine or an Iron Works.
-
-Discard any card from your Hand and place it face up onto your Discard Pile. Exception: Wild cards are placed back onto their Card Draw Area.
-
-## C
-
-## E
-
-## D
-
-## A
-
-Choose 1 of your unflipped Cotton Mill, Manufacturer , or Pottery tiles, that is connected to a Merchant tile featuring that industry's icon
-
-- There must be no resource cubes on the entire board, including in its Market, of the same type as the Industry tile being replaced.
-
-## B
-
-Consume the required amount of beer, shown in the top right corner of the Industry tile. If there is a beer barrel
-
-Remove overbuilt Industry tiles from the game, and return them to the box (they will not score VPs). Players do not lose previously gained income or VPs if their Industry tiles are overbuilt.
 
 ## On The Space Beside
 
