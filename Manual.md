@@ -101,17 +101,19 @@ Exception: Wild cards are placed back onto their Card Draw Areas.
 For each action, you may choose to perform one of the following (you may perform the same action twice):
 
 1. Build - Place one of your Industry tiles onto the board, paying the appropriate cost and consuming any required coal / iron.
+
 Note: Only Build requires a specific card.
 
-2. Network - Expand your canal or rail network by adding Link tiles to the board.
+1. Network - Expand your canal or rail network by adding Link tiles to the board.
    
-3. Develop - Gain access to higher-level industries by removing Industry tiles from your Player Mat.
+2. Develop - Gain access to higher-level industries by removing Industry tiles from your Player Mat.
    
-4. Sell - Flip your built Cotton Mill, Manufacturer, and/or Pottery tiles, by selling to a Merchant, and consuming beer if necessary.
+3. Sell - Flip your built Cotton Mill, Manufacturer, and/or Pottery tiles, by selling to a Merchant, and consuming beer if necessary.
    
-5. Loan - Take a £30 loan from the Bank, and move your Income Marker 3 income levels (not spaces) backwards.
+4. Loan - Take a £30 loan from the Bank, and move your Income Marker 3 income levels (not spaces) backwards.
    
-6. Scout - Discard 2 cards from your Hand (plus the card required to perform the action) and replace them with 1 Wild Industry and 1 Wild Location card.
+5. Scout - Discard 2 cards from your Hand (plus the card required to perform the action) and replace them with 1 Wild Industry and 1 Wild Location card.
+
 Exception: You may not perform this action if you already have a Wild card in your Hand.
 
 - Passing: You may choose to pass instead of performing an action, but must still discard a card for each action you pass.
@@ -134,7 +136,9 @@ Rearrange the Character tiles on the Turn Order Track.
 
 2. Take Income
 
-Take money from the Bank equal to your income level. Exception: Income is not collected at the end of the final round of the game.
+Take money from the Bank equal to your income level.
+
+Exception: Income is not collected at the end of the final round of the game.
 
 - Your income level is the number displayed on the coin beside your Income Marker's current location on the . Progress Track.
 
@@ -177,6 +181,7 @@ Place 1 beer barrel on each empty beer barrel space beside a (non-blank) Merchan
 5. Shuffle Draw Deck
 
 Shuffle all players' Discard Piles together and place the cards face down on the appropriate Card Draw Area.
+
 Remember: The bottom card of each Discard Pile will be face down, and need turning over before shuffling. (Don't start the Rail Era with a card face down in your discard).
 
 6. Draw New Hands
@@ -238,7 +243,6 @@ To consume coal, a rail Link or Industry tile must be connected to a source of c
 Consumed coal cubes are placed back into the General Supply.
 
 Historical Note: Coal was required in large quantities, so a robust transportation network was critical.
-
 
 ### Consuming Iron (page 8)
 
@@ -425,6 +429,7 @@ Merchant beer may only be consumed as part of a Sell action. If you consume a Me
 - Develop (Gloucester)
 
 Remove 1 of the lowest level tiles of any industry from your Player Mat (for no iron cost).
+
 Exception: You cannot remove a Pottery tile showing a crossed out lightbulb Icon (see "Potteries and the Lightbulb Icon). 
 
 - Income (Oxford)
@@ -462,6 +467,7 @@ Performing the Scout action allows you to acquire Wild cards, which provide incr
 1. Discard any card from your Hand, plus 2 additional cards and place them face up onte your Discard Pile.
 
 2. Take 1 Wild Location and 1 Wild Industry card.
+
 Note: You may not perform this action if you already have a Wild card in your Hand.
 
 ### Develop Action (page 11)
@@ -493,6 +499,7 @@ Performing the Network action allows you to place Link tiles, which expand your 
 Exception: Wild cards are placed back onto their Card Draw Area.
 
 2. Place a Link tile on an undeveloped line on the board. The placed Link tile must be adjacent to a location that is a part of your network (see "Your Network").
+
 Exception: If you have no Industry or Link tiles on the board, you may place a Link tile on any undeveloped line (you must still consume coal if building a rail Link).
 
 #### Network During Canal Era: (page 11)
@@ -511,9 +518,12 @@ Exception: If you have no Industry or Link tiles on the board, you may place a L
 
 - You may build 1 rail Link for £5.
 
-- In a single Network action, you may build a maximum of 2 rail Links for £15, if you also consume 1 beer. This beer must be consumed from a Brewery (not a Merchant beer). Remember: If consuming beer from another player's Brewery, it must be connected to the second rail Link (after it is placed).
+- In a single Network action, you may build a maximum of 2 rail Links for £15, if you also consume 1 beer. This beer must be consumed from a Brewery (not a Merchant beer).
+
+Remember: If consuming beer from another player's Brewery, it must be connected to the second rail Link (after it is placed).
 
 - You must consume 1 coal for each rail Link built (see "Consuming Coal")
+
 Remember: Each rail Link is placed separately and must be connected to a source of coal (after it is placed).
 
 ## TIPS AND VARIANTS (page 11)
@@ -551,6 +561,30 @@ Remember: Each rail Link is placed separately and must be connected to a source 
 - Tiles with a (circle with the blue in the left, and white in the right) to the left of their slot on your Player Mat cannot be built during the Rail Era. Try to build or develop at least 1 Coal Mine and 1 Iron Works during the Canal Era, so that you do not have to use a Develop action during the Rail Era to clear these industries from your Player Mat.
 
 - Figuring out how best to expand your network at the beginning of the Rail Era can be difficult for beginners. Expand your network by building rail Links to sources of coal. If you don't have access to any coal, build a Coal Mine.
+
+### Understanding Your Networks (page 11)
+
+This diagram will help you better understand the concept of "your network" and the rules behind the Network action.
+
+> The diagram shows different locations: Birmingham, Redditch, Oxford, Walsall, Dudley, Wolverhampton, and Tamworth.
+
+- The red tiles denote your link and industry tiles.
+
+> There is a red link between Birmingham and Redditch, and a red industry tiles is among the four industry tiles in Birmingham.
+
+- The blue shades denote your network; as your network is a location that includes any of your industry tiles and any locations adjacent to one of your links. As you have a link from Birmingham to Redditch, Redditch is part of your network, even though you don't own an industry tile there.
+
+> The blue shades cover all of the industry tiles in Birmingham and Redditch.
+
+- The yellow shades denote valid link placement as they are all rails adjacent to your network.
+
+> Birmingham and Redditch have yellow shading on all of their adjacent rails except for the red link between them.
+
+- If you performed the Network action to build rail Link, it would be possible to build a second rail Link in the same Network action (as long as you could pay the required cost, and consume the necessary coal and beer).
+
+> For example, with the yellow shading between Birmingham and Walsall, the Network action can expand over Walsall's adjacent links.
+
+Note: You can expand over the board quickly by networking (placing links) and avoiding placing industry tiles.
 
 ### Introductory Game (page 11)
 
