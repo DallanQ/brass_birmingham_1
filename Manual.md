@@ -1,4 +1,4 @@
-## Setting up Brass Birmingham (page 1)
+## Brass Birmingham (page 1)
 
 ### An Industrial Revolution (page 1)
 
@@ -7,7 +7,7 @@ Brass: Birmingham tells the story of competing entrepreneurs in the West Midland
 ### Board Setup (page 4)
 
 1. Place the board on either the day or night side.
-   
+
 2. For a player count of less than 4, remove all cards and Merchant tiles that show a player count greater than your number of players, and return them to the box.
 
 > The 2-player (2 avatar icons), 3-player (3 avatar icons), and 4-player (4 avatar icons) counts are shown in the bottom right corner on the front of the cards and along the top of the merchant tiles.
@@ -28,7 +28,7 @@ Result: In a 2 player game, no Merchant tiles are placed in Warrington & Notting
 
 > Leave the one at the bottom with the dot open.
 
-1. Place 1 orange cube on each space of the Iron Market , leaving both of the £1 spaces open.
+8. Place 1 orange cube on each space of the Iron Market , leaving both of the £1 spaces open.
 
 > Leave the two with the dot at the bottom open.
 
@@ -66,7 +66,7 @@ In addition to helping players find locations on the board, the colours of the l
 
 8. Draw 8 cards from the Draw Deck; this is your Hand. Do not reveal your Hand to other players.
 
-9.  Draw 1 additional card from the Draw Deck and place it face down in your player area; this is your Discard Pile.
+9. Draw 1 additional card from the Draw Deck and place it face down in your player area; this is your Discard Pile.
 
 After all players have set up their player area, shuffle all players' Character tiles together and place them in a random order on the Turn Order Track.
 
@@ -123,6 +123,7 @@ Exception: You may not perform this action if you already have a Wild card in yo
 After all players have taken their turn, perform the following steps before moving on to the next round:
 
 1. Determine turn order for the next round.
+
 Rearrange the Character tiles on the Turn Order Track.
 
 - The player who spent the least money this round will go first next round, and so on, while the player who spent the most will go last.
@@ -132,6 +133,7 @@ Rearrange the Character tiles on the Turn Order Track.
 - Afterwards, take all money from the Character tiles, and place it back into the Bank. This resets the money spent, ready for the next round.
 
 2. Take Income
+
 Take money from the Bank equal to your income level. Exception: Income is not collected at the end of the final round of the game.
 
 - Your income level is the number displayed on the coin beside your Income Marker's current location on the . Progress Track.
@@ -151,9 +153,11 @@ Note: You may remove any of your Industry tiles, but must stop as soon as you ha
 Each era ends following the round in which all players use the final cards in their Hands. When this occurs, perform the following steps:
 
 1. Score Canal/Rail Links
+
 For each of your Link tiles, score 1 VP for each symbol  (that looks like a black hexagon with white borders and a horizontal white line in it) displayed in adjacent locations, by advancing your VP Marker along the Progress Track. Remove Link tiles from the board as they are scored.
 
 2. Score Flipped Industry Tiles
+
 After all players have removed their Link tiles, score the VPs shown in the bottom left corner of your flipped Industry tiles (those with a black top half) on the board, by advancing your VP Marker along the Progress Track. Unflipped Industry tiles do not score.
 
 Note: If you score more than 100 VPs, record the additional points by starting another loop of the Progress Track.
@@ -163,16 +167,20 @@ Note: If you score more than 100 VPs, record the additional points by starting a
 Perform the following additional steps at the end of the Canal Era:
 
 3. Remove Obsolete Industries
+
 Remove all level 1 Industry tiles from the board (not from Player Mats), and return them to the box. All level 2 or greater Industry tiles remain on the board.
 
 4. Reset Merchant Beer
+
 Place 1 beer barrel on each empty beer barrel space beside a (non-blank) Merchant tile.
 
 5. Shuffle Draw Deck
+
 Shuffle all players' Discard Piles together and place the cards face down on the appropriate Card Draw Area.
 Remember: The bottom card of each Discard Pile will be face down, and need turning over before shuffling. (Don't start the Rail Era with a card face down in your discard).
 
 6. Draw New Hands
+
 Each player draws 8 cards from the newly shuffled Draw Deck.
 
 ### Winning the game (page 7)
@@ -200,6 +208,7 @@ At the end of each era, flipped Industry tiles score VPs. When flipped, they hav
 ### Increasing Your Income (page 8)
 
 Whenever one of your Industry tiles is flipped your income is increased. To increase your income, immediately advance your Income Marker along the Progress Track by the Number of spaces (not income levels) shown.
+
 Exception: You cannot increase your income level above level 30.
 
 ### Your Network (Page 8)
@@ -278,15 +287,19 @@ Performing the Build action allows you to place Industry tiles onto a location o
 Exception: Wild cards are placed back onto their Card Draw Area.
 
 - Location card
+
 May be used to build any Industry tile at the location named on the card, even if the location is not a part of your network.
 
 - Wild Location card
+
 May be played as any Location card. This does not include the 2 Farm Breweries (see "Farm Breweries").
 
 - Industry card
+
 May be used to build the Industry tile matching an icon shown in the top corner of the card, in a location that is a part of your network.
 
 - Wild Industry card
+
 May be played as any Industry card.
 
 Note: In 2/3-player games you may still build in any location.
@@ -308,9 +321,11 @@ Remember: If coal is required, the location you are building in must be connecte
 4. If you build a: 
  
 - Coal Mine Or Iron Works
+
 Place coal or iron cube(from the General Supply) onto the Industry tile, equal to the quantity shown in the bottom right corner of the tile. 
 
 - Brewery
+
 Place 1 beer barrel on the Industry tile if it is built during the Canal Era, or 2 beer barrels if it is built during the Rail Era.
 
 #### Moving Coal and Iron to the Market (page 9)
@@ -368,6 +383,7 @@ Sometimes you are allowed to replace an already placed Industry tile with a high
 If the tile you are replacing is your own:
 
 - You may Overbuild any Industry tile.
+
 - If there are any iron / coal / beer on the tile being replaced, place them back into the General Supply.
 
 If the tile you are replacing is owned by an opponent:
@@ -389,6 +405,7 @@ Performing the Sell action allows you to flip built Cotton Mill, Manufacturer, a
 #### To perform the Sell actions: (page 10)
 
 1. Discard any card from your Hand and place it face up onto your Discard Pile.
+
 Exception: Wild cards are placed back onto their Card Draw Area.
 
 2. Choose 1 of your unflipped Cotton Mill, Manufacturer, or Pottery tiles, that is connected to a Merchant tile featuring that industry's icon.
@@ -406,16 +423,20 @@ Note: You cannot perform the Sell action if you cannot consume the required beer
 Merchant beer may only be consumed as part of a Sell action. If you consume a Merchant beer, you also receive the bonus displayed beside that Merchant tile's location:
 
 - Develop (Gloucester)
+
 Remove 1 of the lowest level tiles of any industry from your Player Mat (for no iron cost).
 Exception: You cannot remove a Pottery tile showing a crossed out lightbulb Icon (see "Potteries and the Lightbulb Icon). 
 
 - Income (Oxford)
+
 Advance your Income Marker 2 spaces along the Progress Track.
 
 - Victory Points (Nottingham and Shrewsbury)
+
 Advance your VP Marker along the Progress Track by the number of spaces indicated.
 
 - Money (Warrington)
+
 Receive £5 from the Bank.
 
 ### Loan Action (page 11)
@@ -425,9 +446,11 @@ Performing the Loan action allows you to acquire more money. Loans are never rep
 #### To perform the Loan action: (page 11)
 
 1. Discard any card from your Hand, and place it face up onto your Discard Pile.
+
 Exception: Wild cards are placed back onto their Card Draw Area.
 
 2. Take £30 from the bank, and move your Income Marker 3 income levels (not spaces) backwards down the Progress Track. Place your Income Marker on the highest space within the new lower income level.
+
 Exception: You cannot take a loan if it will take your income level below -10.
 
 ### Scout Action (page 11)
@@ -448,6 +471,7 @@ Performing the Develop action allows you to remove Industry tiles from your Play
 #### To perform the Develop action: (page 11)
 
 1. Discard any card from your Hand, and place it face up onto your Discard Pile.
+
 Exception: Wild cards are placed back onto their Card Draw Area.
 
 2. Remove 1 or 2 Industry tiles from your Player Mat, and return them to the box. Each Industry tile is removed separately and does not need to be of the same industry, but must be the lowest level tile of the chosen industry (as it is removed).
@@ -465,6 +489,7 @@ Performing the Network action allows you to place Link tiles, which expand your 
 #### To perform the Network action: (page 11)
 
 1. Discard any card from your Hand, and place it face up onto your Discard Pile.
+
 Exception: Wild cards are placed back onto their Card Draw Area.
 
 2. Place a Link tile on an undeveloped line on the board. The placed Link tile must be adjacent to a location that is a part of your network (see "Your Network").
@@ -536,10 +561,13 @@ To play the introductory game, first, play the entire Canal Era as normal, inclu
 Players then score additional points as follows:
 
 1. Money
+
 Score 1 VP for every £4 in your player area (up to a maximum of 15 VPs).
 
 2. Income level
+
 Score VPs equal to your income level. If your income level is negative, you lose VPs.
 
 3. Industry tiles
+
 Score the points a second time for all your level 2 or greater Industry tiles.
