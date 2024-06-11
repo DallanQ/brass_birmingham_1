@@ -150,7 +150,7 @@ Exception: Income is not collected at the end of the final round of the game.
 
 Note: You may remove any of your Industry tiles, but must stop as soon as you have acquired enough money to cover the shortfall. You may not sell Industry tiles for any reason other than paying for a shortfall.
 
-## End Of Canal & Rail Era Maintenance (page 7)
+## End Of Era Maintenance (page 7)
 
 ### End of Canal & Rail Era (page 7)
 
