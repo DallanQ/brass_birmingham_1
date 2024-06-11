@@ -104,17 +104,17 @@ For each action, you may choose to perform one of the following (you may perform
 
 Note: Only Build requires a specific card.
 
-1. Network - Expand your canal or rail network by adding Link tiles to the board.
+2. Network - Expand your canal or rail network by adding Link tiles to the board.
    
-2. Develop - Gain access to higher-level industries by removing Industry tiles from your Player Mat.
+3. Develop - Gain access to higher-level industries by removing Industry tiles from your Player Mat.
    
-3. Sell - Flip your built Cotton Mill, Manufacturer, and/or Pottery tiles, by selling to a Merchant, and consuming beer if necessary.
+4. Sell - Flip your built Cotton Mill, Manufacturer, and/or Pottery tiles, by selling to a Merchant, and consuming beer if necessary.
    
-4. Loan - Take a £30 loan from the Bank, and move your Income Marker 3 income levels (not spaces) backwards.
+5. Loan - Take a £30 loan from the Bank, and move your Income Marker 3 income levels (not spaces) backwards.
    
-5. Scout - Discard 2 cards from your Hand (plus the card required to perform the action) and replace them with 1 Wild Industry and 1 Wild Location card.
+6. Scout - Discard 2 cards from your Hand (plus the card required to perform the action) and replace them with 1 Wild Industry and 1 Wild Location card.
 
-Exception: You may not perform this action if you already have a Wild card in your Hand.
+    Exception: You may not perform this action if you already have a Wild card in your Hand.
 
 - Passing: You may choose to pass instead of performing an action, but must still discard a card for each action you pass.
 
