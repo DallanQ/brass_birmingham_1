@@ -130,7 +130,7 @@ Note: Only Build requires a specific card.
    
 6. Scout - Discard 2 cards from your Hand (plus the card required to perform the action) and replace them with 1 Wild Industry and 1 Wild Location card.
 
-    Exception: You may not perform this action if you already have a Wild card in your Hand.
+Exception: You may not perform this action if you already have a Wild card in your Hand.
 
 - Passing: You may choose to pass instead of performing an action, but must still discard a card for each action you pass.
 
