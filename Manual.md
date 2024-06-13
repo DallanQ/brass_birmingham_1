@@ -358,7 +358,7 @@ If you have no Industry or Link tiles on the board, you may also (as an action) 
 
 - Any card to build a Link tile on any undeveloped line on the board.
 
-#### Farm Breweries
+#### Farm Breweries (page 9)
 
 There are 2 unnamed locations, each with 1 space displaying a Brewery icon; these are Farm Breweries.
 
