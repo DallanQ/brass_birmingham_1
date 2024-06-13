@@ -386,6 +386,8 @@ There are 2 unnamed locations, each with 1 space displaying a Brewery icon; thes
 
 - A Link tile is required to connect Cannock to the Farm Brewery to its left.
 
+>  Link tiles can resemble trains or ships.
+
 - A Link tile placed between Kidderminster and Worcester also connects both locations to the Farm Brewery to their left. A second Link tile is not required; nor may it be placed there.
 
 #### Canal Era Building (page 10)
