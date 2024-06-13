@@ -256,6 +256,8 @@ To consume coal, a rail Link or Industry tile must be connected to a source of c
 
 2. If you are not connected to an unflipped Coal Mine, you can purchase coal from the Coal Market, starting at the cheapest price. This requires a connection to a double arrows icon (shown on the Warrington, Shrewsbury, Nottingham, Gloucester, and Oxford Merchants around the edge of the board). If the Coal Market is empty, you can still purchase coal for £8 / coal cube.
 
+> Coal cubes look like black cubes.
+
 Consumed coal cubes are placed back into the General Supply.
 
 Historical Note: Coal was required in large quantities, so a robust transportation network was critical.
@@ -271,6 +273,8 @@ To consume iron, an Industry tile does not need a connection to a source of iron
 1. Any unflipped Iron Works (owned by any player); it does not have to be the closest. If you need more than 1 iron, you can consume each iron from a different Iron Works. Consuming iron in this way is free.
    
 2. If there are no unflipped Iron Works, you can purchase iron from the Iron Market, starting at the cheapest price. If the Iron Market is empty, you can still purchase iron for £6 / Iron cube.
+
+> The iron cubes look like golden-colored cubes.
 
 Consumed iron cubes are placed back into the General Supply.
 
