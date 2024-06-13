@@ -59,10 +59,26 @@ In addition to helping players find locations on the board, the colours of the l
 4. Place the matching coloured Link tiles in your player area.
 
 5. Stack the matching coloured Industry tiles (which consist of Cotton Mills, Coal Mines, Iron Works, Manufacturers, Potteries, and Breweries) on their appropriate slots on your Player Mat. The side of the tiles with the black top half should be face down.
+
+> The manufacturer's icon looks like a box.
+
+> The Cotton Mills icon looks like a building.
+
+> The Breweries icon has three wooden barrels.
+
+> The Potteries icon looks like a ceramic structure with a conical shape and a small opening at the bottom.
+
+> The Coal Mines icon looks like an industrial machine on a rectangular platform.
+
+> The Iron Works icon looks like a mining cart full of coal.
    
 6. Place your Victory Point (VP) Marker on the "0" space of the Progress Track.
 
+> Victory Points are hexagonal tiles.
+
 7. Place your Income Marker on the "10" space of the Progress Track.
+
+> The Progress Track is at the edge of the game board.
 
 8. Draw 8 cards from the Draw Deck; this is your Hand. Do not reveal your Hand to other players.
 
