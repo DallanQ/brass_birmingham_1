@@ -26,11 +26,11 @@ Result: In a 2 player game, no Merchant tiles are placed in Warrington & Notting
 
 7. Place 1 black cube on each space of the Coal Market, leaving 1 of the £1 spaces open.
 
-> Leave the one at the bottom with the dot open.
+> In the Coal Market, the space that should be left open is the bottom right.
 
 8. Place 1 orange cube on each space of the Iron Market , leaving both of the £1 spaces open.
 
-> Leave the two with the dot at the bottom open.
+> In the Iron Market, the two spaces that should remain open are the two at the bottom.
 
 9.  Place the remaining cubes and beer barrels beside the board; this is the General Supply.
 
