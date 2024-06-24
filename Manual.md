@@ -156,7 +156,7 @@ Take money from the Bank equal to your income level.
 
 Exception: Income is not collected at the end of the final round of the game.
 
-- Your income level is the number displayed on the coin beside your Income Marker's current location on the . Progress Track.
+- Your income level is the number displayed on the coin beside your Income Marker's current location on the Progress Track.
 
 - If your income level is negative, you must pay that amount of money to the Bank.
 
